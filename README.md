@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[<img align="center" alt="THE KANVRET EN" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/CtGDk51eKl8?t=0m31s)
+[<img align="center" alt="Agung Fvnky 🅥​" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/CtGDk51eKl8?t=0m31s)
 
 ## THE KANVRET
 
