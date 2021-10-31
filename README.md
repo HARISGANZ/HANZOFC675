@@ -1,8 +1,7 @@
 
 <div align="center">
 
-[<img align="center" alt="Agung Fvnky 🅥​" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/CtGDk51eKl8?t=0m31s)
-
+[<img align="center" alt="Agung Fvnky 🅥​" width="683px" src="assets/Lazulight.webp" />](https://youtu.be/CtGDk51eKl8?t=32)
 ## THE KANVRET
 
 
