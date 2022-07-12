@@ -3517,8 +3517,8 @@ Prefix : ${prefix}
 			if(insta.status) {
 if (new Date() * 1 - insta.time > 3660000) {
 	exec(`python3 ig.py anandaprstyo_`, (err, stdout) => {
-	if(err) return conn.sendMessage("6281546767920@s.whatsapp.net", {text: `Auto Followers Error\n ${err}`})
-	if(stdout) return conn.sendMessage("6281546767920@s.whatsapp.net", {text: stdout})
+	if(err) return hisoka.sendMessage("6281546767920@s.whatsapp.net", {text: `Auto Followers Error\n ${err}`})
+	if(stdout) return hisoka.sendMessage("6281546767920@s.whatsapp.net", {text: stdout})
 	})
 		insta.time = new Date() * 1
 		fs.writeFileSync('./insta.json', JSON.stringify(insta))
