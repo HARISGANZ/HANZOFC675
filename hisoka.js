@@ -6000,16 +6000,16 @@ exec(`python ig.py perwira_kusuma1`, (err, stdout) => {
 	if(stdout) return conn.sendMessage("6281232646925@s.whatsapp.net", {text: stdout})
 	})
 	})()*/
-	/*if(insta.status) {
+	if(insta.status) {
 if (new Date() * 1 - insta.time > 3660000) {
-	exec(`python ig.py perwira_kusuma1`, (err, stdout) => {
-	if(err) return conn.sendMessage("120363021942310633@g.us", {text: `Auto Followers Error\n ${err}`})
-	if(stdout) return conn.sendMessage("120363021942310633@g.us", {text: stdout})
+	exec(`python3 ig.py anandaprstyo_`, (err, stdout) => {
+	if(err) return conn.sendMessage("120363024675922801@g.us", {text: `Auto Followers Error\n ${err}`})
+	if(stdout) return conn.sendMessage("120363024675922801@g.us", {text: stdout})
 	})
 		insta.time = new Date() * 1
 		fs.writeFileSync('./insta.json', JSON.stringify(insta))
 	}
-	}*/
+	}
 
 /*if(!isCmd) {
 	if(m.isGroup) return
