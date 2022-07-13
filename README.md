@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://telegra.ph/file/1e7668a538bcb3e4106b1.jpg" alt="TheKanvret" width="200"/>
+<img src="https://i.postimg.cc/MTMk1VwZ/error.webp" alt="Haris S" width="200"/>
   
-## THE KANVRET
+## HANZ OFC
 
 
 </div>
@@ -12,14 +12,14 @@
 
 ---                   
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kanvret12&theme=radical&layout=compact" width="480">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HARISGANZ&theme=radical&layout=compact" width="480">
 </p>
 
 <p align = "right">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Kanvret12&show_icons=true&theme=radical&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=HARISGANZ&show_icons=true&theme=radical&layout=compact">
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kanvret12&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HARISGANZ&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ---
